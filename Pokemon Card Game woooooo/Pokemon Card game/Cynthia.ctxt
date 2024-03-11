@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Cynthia
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Potion\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Cynthia()
+comment2.params=gameState
+comment2.target=void\ playable(Player)
+numComments=3

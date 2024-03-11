@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=TrainerAction
+comment1.params=gameState
+comment1.target=void\ playable(Player)
+numComments=2

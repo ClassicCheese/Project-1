@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Electrode
+comment1.params=
+comment1.target=Electrode()
+comment2.params=target
+comment2.target=void\ attack1(Pokemon)
+comment3.params=target
+comment3.target=void\ attack2(Pokemon)
+numComments=4

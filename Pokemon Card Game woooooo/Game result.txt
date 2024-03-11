@@ -1,0 +1,199 @@
+You:           Pokemon: Pikachu, 29Hp, 0 energy|
+
+You've drawn: Trainer: Potion 80|
+Player 2's turn
+Hand: [Energy: Rainbow energy|, Energy: Rainbow energy|, Trainer: Professor's Research|, Pokemon: Raikou, 165Hp, 0 energy|, Energy: Rainbow energy|, Trainer: Nest Ball|, Trainer: Potion 80|]
+Bench: [Pokemon: Electrode, 124Hp, 0 energy|]
+Number of prize pool card left: 2
+
+[Energy: Rainbow energy|, Energy: Rainbow energy|, Trainer: Professor's Research|, Pokemon: Raikou, 165Hp, 0 energy|, Energy: Rainbow energy|, Trainer: Nest Ball|, Trainer: Potion 80|]
+1) Use trainer cards:
+2) add Pokemon to active battleground:
+3) add Pokemon to bench:
+4) Attach energy to pokemon:
+5) Attack
+6) End turn:
+6
+
+
+
+Enenmy:        Pokemon: Pikachu, 29Hp, 0 energy|
+
+
+
+
+You:           Pokemon: Raikou, 169Hp, 4 energy|
+
+You've drawn: Trainer: Potion 80|
+Player 1's turn
+Hand: [Pokemon: Raikou, 198Hp, 0 energy|, Trainer: Nest Ball|, Pokemon: Pikachu, 124Hp, 0 energy|, Trainer: Nest Ball|, Trainer: Nest Ball|, Pokemon: Pikachu, 126Hp, 0 energy|, Trainer: Potion 80|]
+Bench: [Pokemon: Electrode, 103Hp, 0 energy|, Pokemon: Electrode, 94Hp, 0 energy|]
+Number of prize pool card left: 2
+
+[Pokemon: Raikou, 198Hp, 0 energy|, Trainer: Nest Ball|, Pokemon: Pikachu, 124Hp, 0 energy|, Trainer: Nest Ball|, Trainer: Nest Ball|, Pokemon: Pikachu, 126Hp, 0 energy|, Trainer: Potion 80|]
+1) Use trainer cards:
+2) add Pokemon to active battleground:
+3) add Pokemon to bench:
+4) Attach energy to pokemon:
+5) Attack
+6) End turn:
+5
+
+1) Attack 1 - 1 energy required
+2) Attack 2 - 2 energy required
+1
+RAIKOU, USE THUNDER  SHOCK
+Enemy's Pokemon took 60 damge
+Enemy defeated
+You received: Pokemon: Electrode, 108Hp, 0 energy| from prize pool
+Current prize pool is :1
+
+
+
+Enenmy:        Pokemon: Raikou, 169Hp, 3 energy|
+
+
+
+
+
+You've drawn: Pokemon: Raikou, 161Hp, 0 energy|
+Player 2's turn
+Hand: [Energy: Rainbow energy|, Energy: Rainbow energy|, Trainer: Professor's Research|, Pokemon: Raikou, 165Hp, 0 energy|, Energy: Rainbow energy|, Trainer: Nest Ball|, Trainer: Potion 80|, Pokemon: Raikou, 161Hp, 0 energy|]
+Bench: [Pokemon: Electrode, 124Hp, 0 energy|]
+Number of prize pool card left: 2
+
+[Energy: Rainbow energy|, Energy: Rainbow energy|, Trainer: Professor's Research|, Pokemon: Raikou, 165Hp, 0 energy|, Energy: Rainbow energy|, Trainer: Nest Ball|, Trainer: Potion 80|, Pokemon: Raikou, 161Hp, 0 energy|]
+1) Use trainer cards:
+2) add Pokemon to active battleground:
+3) add Pokemon to bench:
+4) Attach energy to pokemon:
+5) Attack
+6) End turn:
+2
+
+Pick a pokemon to send to battle
+1) From your hand
+2) From your bench
+Hand: [Energy: Rainbow energy|, Energy: Rainbow energy|, Trainer: Professor's Research|, Pokemon: Raikou, 165Hp, 0 energy|, Energy: Rainbow energy|, Trainer: Nest Ball|, Trainer: Potion 80|, Pokemon: Raikou, 161Hp, 0 energy|]
+Bench: [Pokemon: Electrode, 124Hp, 0 energy|]
+Number of prize pool card left: 2
+2
+[Pokemon: Electrode, 124Hp, 0 energy|]
+Choose a Pokemon from bench (1-1
+Press any negative number to return to previous menu
+1
+Successfully added: Pokemon: Electrode, 124Hp, 0 energy|
+
+[Energy: Rainbow energy|, Energy: Rainbow energy|, Trainer: Professor's Research|, Pokemon: Raikou, 165Hp, 0 energy|, Energy: Rainbow energy|, Trainer: Nest Ball|, Trainer: Potion 80|, Pokemon: Raikou, 161Hp, 0 energy|]
+1) Use trainer cards:
+2) add Pokemon to active battleground:
+3) add Pokemon to bench:
+4) Attach energy to pokemon:
+5) Attack
+6) End turn:
+3
+
+Pick a pokemon from your hand to add to bench (1-8
+[Energy: Rainbow energy|, Energy: Rainbow energy|, Trainer: Professor's Research|, Pokemon: Raikou, 165Hp, 0 energy|, Energy: Rainbow energy|, Trainer: Nest Ball|, Trainer: Potion 80|, Pokemon: Raikou, 161Hp, 0 energy|]
+4
+Successfully added Pokemon: Raikou, 165Hp, 0 energy| to bench.
+
+[Energy: Rainbow energy|, Energy: Rainbow energy|, Trainer: Professor's Research|, Energy: Rainbow energy|, Trainer: Nest Ball|, Trainer: Potion 80|, Pokemon: Raikou, 161Hp, 0 energy|]
+1) Use trainer cards:
+2) add Pokemon to active battleground:
+3) add Pokemon to bench:
+4) Attach energy to pokemon:
+5) Attack
+6) End turn:
+6
+
+
+
+Enenmy:        Pokemon: Electrode, 124Hp, 0 energy|
+
+
+
+
+You:           Pokemon: Raikou, 169Hp, 3 energy|
+
+You've drawn: Pokemon: Pikachu, 129Hp, 0 energy|
+Player 1's turn
+Hand: [Pokemon: Raikou, 198Hp, 0 energy|, Trainer: Nest Ball|, Pokemon: Pikachu, 124Hp, 0 energy|, Trainer: Nest Ball|, Trainer: Nest Ball|, Pokemon: Pikachu, 126Hp, 0 energy|, Trainer: Potion 80|, Pokemon: Electrode, 108Hp, 0 energy|, Pokemon: Pikachu, 129Hp, 0 energy|]
+Bench: [Pokemon: Electrode, 103Hp, 0 energy|, Pokemon: Electrode, 94Hp, 0 energy|]
+Number of prize pool card left: 1
+
+[Pokemon: Raikou, 198Hp, 0 energy|, Trainer: Nest Ball|, Pokemon: Pikachu, 124Hp, 0 energy|, Trainer: Nest Ball|, Trainer: Nest Ball|, Pokemon: Pikachu, 126Hp, 0 energy|, Trainer: Potion 80|, Pokemon: Electrode, 108Hp, 0 energy|, Pokemon: Pikachu, 129Hp, 0 energy|]
+1) Use trainer cards:
+2) add Pokemon to active battleground:
+3) add Pokemon to bench:
+4) Attach energy to pokemon:
+5) Attack
+6) End turn:
+5
+
+1) Attack 1 - 1 energy required
+2) Attack 2 - 2 energy required
+2
+RAIKOU, USE THUNDER FANG
+Enemy's Pokemon took 90 damge
+
+
+
+Enenmy:        Pokemon: Raikou, 169Hp, 1 energy|
+
+
+
+
+You:           Pokemon: Electrode, 34Hp, 0 energy|
+
+You've drawn: Energy: Rainbow energy|
+Player 2's turn
+Hand: [Energy: Rainbow energy|, Energy: Rainbow energy|, Trainer: Professor's Research|, Energy: Rainbow energy|, Trainer: Nest Ball|, Trainer: Potion 80|, Pokemon: Raikou, 161Hp, 0 energy|, Energy: Rainbow energy|]
+Bench: [Pokemon: Raikou, 165Hp, 0 energy|]
+Number of prize pool card left: 2
+
+[Energy: Rainbow energy|, Energy: Rainbow energy|, Trainer: Professor's Research|, Energy: Rainbow energy|, Trainer: Nest Ball|, Trainer: Potion 80|, Pokemon: Raikou, 161Hp, 0 energy|, Energy: Rainbow energy|]
+1) Use trainer cards:
+2) add Pokemon to active battleground:
+3) add Pokemon to bench:
+4) Attach energy to pokemon:
+5) Attack
+6) End turn:
+6
+
+
+
+Enenmy:        Pokemon: Electrode, 34Hp, 0 energy|
+
+
+
+
+You:           Pokemon: Raikou, 169Hp, 1 energy|
+
+You've drawn: Pokemon: Pikachu, 117Hp, 0 energy|
+Player 1's turn
+Hand: [Pokemon: Raikou, 198Hp, 0 energy|, Trainer: Nest Ball|, Pokemon: Pikachu, 124Hp, 0 energy|, Trainer: Nest Ball|, Trainer: Nest Ball|, Pokemon: Pikachu, 126Hp, 0 energy|, Trainer: Potion 80|, Pokemon: Electrode, 108Hp, 0 energy|, Pokemon: Pikachu, 129Hp, 0 energy|, Pokemon: Pikachu, 117Hp, 0 energy|]
+Bench: [Pokemon: Electrode, 103Hp, 0 energy|, Pokemon: Electrode, 94Hp, 0 energy|]
+Number of prize pool card left: 1
+
+[Pokemon: Raikou, 198Hp, 0 energy|, Trainer: Nest Ball|, Pokemon: Pikachu, 124Hp, 0 energy|, Trainer: Nest Ball|, Trainer: Nest Ball|, Pokemon: Pikachu, 126Hp, 0 energy|, Trainer: Potion 80|, Pokemon: Electrode, 108Hp, 0 energy|, Pokemon: Pikachu, 129Hp, 0 energy|, Pokemon: Pikachu, 117Hp, 0 energy|]
+1) Use trainer cards:
+2) add Pokemon to active battleground:
+3) add Pokemon to bench:
+4) Attach energy to pokemon:
+5) Attack
+6) End turn:
+5
+
+1) Attack 1 - 1 energy required
+2) Attack 2 - 2 energy required
+1
+RAIKOU, USE THUNDER  SHOCK
+Enemy's Pokemon took 60 damge
+Enemy defeated
+You received: Pokemon: Raikou, 192Hp, 0 energy| from prize pool
+Current prize pool is :0
+Simulator 1 won!
+  (\__/)
+  (o^.^)
+z(_(")(")

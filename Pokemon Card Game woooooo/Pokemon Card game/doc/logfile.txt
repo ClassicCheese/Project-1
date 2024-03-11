@@ -1,0 +1,31 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Users\ii\Desktop\Bluej\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+17
+-classpath
+C:\Users\ii\Desktop\Bluej\bluej\lib\bluejcore.jar;C:\Users\ii\Desktop\Bluej\bluej\lib\javafx-base-20.0.1-win.jar;C:\Users\ii\Desktop\Bluej\bluej\lib\javafx-base-20.0.1.jar;C:\Users\ii\Desktop\Bluej\bluej\lib\javafx-controls-20.0.1-win.jar;C:\Users\ii\Desktop\Bluej\bluej\lib\javafx-controls-20.0.1.jar;C:\Users\ii\Desktop\Bluej\bluej\lib\javafx-fxml-20.0.1-win.jar;C:\Users\ii\Desktop\Bluej\bluej\lib\javafx-graphics-20.0.1-win.jar;C:\Users\ii\Desktop\Bluej\bluej\lib\javafx-graphics-20.0.1.jar;C:\Users\ii\Desktop\Bluej\bluej\lib\javafx-media-20.0.1-win.jar;C:\Users\ii\Desktop\Bluej\bluej\lib\javafx-media-20.0.1.jar;C:\Users\ii\Desktop\Bluej\bluej\lib\javafx-swing-20.0.1-win.jar;C:\Users\ii\Desktop\Bluej\bluej\lib\javafx-web-20.0.1-win.jar;C:\Users\ii\Desktop\Bluej\bluej\lib\junit-4.12.jar;C:\Users\ii\Desktop\Bluej\bluej\lib\junit-jupiter-5.5.2.jar;C:\Users\ii\Desktop\Bluej\bluej\lib\junit-jupiter-api-5.5.2.jar;C:\Users\ii\Desktop\Bluej\bluej\lib\junit-jupiter-engine-5.5.2.jar;C:\Users\ii\Desktop\Bluej\bluej\lib\junit-jupiter-params-5.5.2.jar;C:\Users\ii\Desktop\Bluej\bluej\lib\junit-platform-commons-1.5.2.jar;C:\Users\ii\Desktop\Bluej\bluej\lib\junit-platform-engine-1.5.2.jar;C:\Users\ii\Desktop\Bluej\bluej\lib\junit-platform-launcher-1.5.2.jar;C:\Users\ii\Desktop\Bluej\bluej\lib\junit-platform-suite-api-1.5.2.jar;C:\Users\ii\Desktop\Bluej\bluej\lib\junit-vintage-engine-5.5.2.jar;C:\Users\ii\Desktop\Bluej\bluej\lib\hamcrest-core-1.3.jar;C:\Users\ii\Desktop\Bluej\bluej\lib\opentest4j-1.2.0.jar;C:\Users\ii\Desktop\Bluej\bluej\lib\lang-stride.jar;C:\Users\ii\OneDrive - go.Stockton.edu\Documents\Spring 2024\Programming and statistic application\PokemonCardGame-copy
+-d
+C:\Users\ii\OneDrive - go.Stockton.edu\Documents\Spring 2024\Programming and statistic application\PokemonCardGame-copy\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+C:\Users\ii\OneDrive - go.Stockton.edu\Documents\Spring 2024\Programming and statistic application\PokemonCardGame-copy\Player.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\ii\OneDrive - go.Stockton.edu\Documents\Spring 2024\Programming and statistic application\PokemonCardGame-copy\Player.java...
+Constructing Javadoc information...
+Standard Doclet version 17.0.4.1+1
+Building tree for all the packages and classes...
+Generating C:\Users\ii\OneDrive - go.Stockton.edu\Documents\Spring 2024\Programming and statistic application\PokemonCardGame-copy\doc\Player.html...
+Generating C:\Users\ii\OneDrive - go.Stockton.edu\Documents\Spring 2024\Programming and statistic application\PokemonCardGame-copy\doc\package-summary.html...
+Generating C:\Users\ii\OneDrive - go.Stockton.edu\Documents\Spring 2024\Programming and statistic application\PokemonCardGame-copy\doc\index.html...

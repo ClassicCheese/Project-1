@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Potion80
+comment1.params=
+comment1.target=Potion80()
+comment2.params=gameState
+comment2.target=void\ playable(Player)
+numComments=3
