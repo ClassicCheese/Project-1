@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=PokemonCardGame
+comment1.params=num
+comment1.target=PokemonCardGame(int)
+comment2.params=
+comment2.target=Card\ drawCard()
+comment3.params=
+comment3.target=void\ drawHand()
+comment4.params=
+comment4.target=boolean\ checkHand()
+comment5.params=
+comment5.target=void\ drawPool()
+comment6.params=m
+comment6.target=boolean\ checkPool(int)
+comment7.params=
+comment7.target=boolean\ checkPool()
+comment8.params=
+comment8.target=void\ run()
+comment9.params=
+comment9.target=void\ reshuffle()
+numComments=10
